@@ -1,4 +1,4 @@
-* {
+body {
     background-color: #A78B71;
 }
 
@@ -6,4 +6,23 @@
     text-align: center;
     color: #EC9704;
     display: inline;
+}
+
+
+.links {
+    color: #F7C815;
+    font-size: large;
+    text-align: center;
+}
+
+a:visited {
+    color: #583E26;
+}
+
+a:hover {
+    color: #F7C815;
+}
+
+a:active {
+    color: #583E26;
 }
