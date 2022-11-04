@@ -15,8 +15,12 @@ body {
     text-align: center;
 }
 
-a:visited {
+a {
     color: #583E26;
+}
+
+a:visited {
+    color: #F7C815;
 }
 
 a:hover {
