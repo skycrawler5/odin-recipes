@@ -1,10 +1,11 @@
 body {
     background-color: #A78B71;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .header {
     text-align: center;
-    color: #EC9704;
+    color: #F7C815;
     display: inline;
 }
 
